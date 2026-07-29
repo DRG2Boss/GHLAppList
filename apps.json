@@ -345,12 +345,6 @@
       "folderName": "RELIVE",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/b9b5c1aceaf0491b0c041bca34418f07.png"
     },
-	{
-      "name": "Skate: Recompiled (Skate 3)",
-      "repository": "portingpete/skate3-recomp",
-      "folderName": "SkateRecompiled",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon/dcf0c06522a3c86c78bea8dc47433933.png"
-    },
 	  {
       "name": "Unleashed Recompiled (Sonic Unleashed)",
       "repository": "hedge-dev/UnleashedRecomp",
@@ -401,7 +395,13 @@
       "repository": "SolarCookies/TiP-Recomp",
       "folderName": "VivaPinataTiPRecompiled",
       "appIconUrl": "https://raw.githubusercontent.com/SolarCookies/TiP-Recomp/refs/heads/main/icon/app.ico"
-    }
+    },
+	{
+      "name": "Skate: Recompiled (Skate 3)",
+      "repository": "mchughalex/skate3recomp",
+      "folderName": "skate3recomp",
+      "appIconUrl": "https://github.com/mchughalex/skate3recomp/raw/main/banner.png"
+    },
   ],
 
   "System Emulation": [
