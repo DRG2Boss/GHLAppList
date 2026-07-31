@@ -212,6 +212,12 @@
       "repository": "ThiagoLira/trouble-makers-pc-recomp",
       "folderName": "trouble-makers-recomp",
       "appIconUrl": "https://github.com/ThiagoLira/trouble-makers-pc-recomp/blob/main/icons/512.png?raw=true"
+    },
+    {
+      "name": "Golden Balloon (Diddy Kong Racing)",
+      "repository": "akratch/goldenballoon",
+      "folderName": "goldenballoon",
+      "appIconUrl": "https://github.com/akratch/goldenballoon/blob/main/dist/web/assets/logo.png?raw=true"
     }
   ],
 
