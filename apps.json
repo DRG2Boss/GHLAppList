@@ -151,6 +151,12 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/dc2ee2a5add7154447a4644326e33386/32/256x256.png"
     },
 	  {
+      "name": "Lighthouse (Banjo Kazooie)",
+      "repository": "HarbourMasters/Lighthouse",
+      "folderName": "Lighthouse",
+      "appIconUrl": "https://github.com/HarbourMasters/Lighthouse/blob/develop/logo.png?raw=true"
+    },
+	  {
       "name": "Infinite Mario 64 Ever",
       "repository": "Brawmario/infinite-mario-64-ever",
       "folderName": "InfiniteMario64Ever",
