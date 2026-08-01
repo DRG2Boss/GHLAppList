@@ -239,12 +239,6 @@
       "repository": "Legend-of-Dragoon-Modding/Severed-Chains",
       "folderName": "SeveredChains",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ddc2c94d27d2c6d46b33acf21b21a641.png"
-    },
-	{
-      "name": "Silent Hill Decompilation Project",
-      "repository": "SlickAmogus/silent-hill-decomp",
-      "folderName": "SilentHillDecomp",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon/8847f8243bea41c5145872e904631d71.png"
     }
   ],
 
@@ -260,6 +254,12 @@
       "repository": "mstan/MegaManX6Recomp",
       "folderName": "MegaManX6Recomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/7558a03211f17086e4b8d0fbd35e9a6a.png"
+    },
+	{
+      "name": "Silent Hill Decompilation Project",
+      "repository": "SlickAmogus/silent-hill-decomp",
+      "folderName": "SilentHillDecompilationProject",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/8847f8243bea41c5145872e904631d71.png"
     },
 	{
       "name": "Tomba! Recomp",
