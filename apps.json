@@ -239,6 +239,12 @@
       "repository": "Legend-of-Dragoon-Modding/Severed-Chains",
       "folderName": "SeveredChains",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ddc2c94d27d2c6d46b33acf21b21a641.png"
+    },
+    {
+      "name": "SymphonyRecomp (Castlevania: Symphony of the Night)",
+      "repository": "BlackLabelHQ/SymphonyRecomp",
+      "folderName": "SymphonyRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/0e4a2c65bdaddd66a53422d93daebe68.png"
     }
   ],
 
