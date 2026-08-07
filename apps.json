@@ -245,6 +245,12 @@
       "repository": "BlackLabelHQ/SymphonyRecomp",
       "folderName": "SymphonyRecomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/0e4a2c65bdaddd66a53422d93daebe68.png"
+    },
+    {
+      "name": "Syphon Filter PC",
+      "repository": "Madxbio97/SF-pc-port",
+      "folderName": "SyphonFilterPCPort",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/b1282cadad27f496d6680a5128a2814e.png"
     }
   ],
 
